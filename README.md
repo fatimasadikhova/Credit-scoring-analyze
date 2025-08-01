@@ -1,4 +1,4 @@
-# Credit Scoring Analyze
+# Credit scoring for borrowers in bank (Analyze)
 
 # Project Objective
 The goal of this mini-project is to analyze data from a direct marketing campaign conducted by a bank. The marketing efforts were carried out over phone calls, with the primary aim of encouraging clients to subscribe to a term deposit (a fixed-period bank savings product).
