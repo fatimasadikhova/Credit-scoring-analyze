@@ -43,5 +43,15 @@ poutcome	- Outcome of the previous campaign (success, failure, unknown, other).
 
 y	- Has the client subscribed to a term deposit? (yes/no) — target column.
 
+# Used Technology
+
+Python: The primary programming language used for data processing and analysis.
+
+Pandas: Used for data cleaning and analysis.
+
+Matplotlib and Duckdb: Used for data visualization.
+
+Jupyter Notebook: Used for project execution and testing.
+
 # Scenario
 As a data analyst working for a financial institution, you are tasked with evaluating the effectiveness of a phone-based marketing campaign. Your goal is to identify which types of clients are more likely to respond positively, and what factors most influence the success of a campaign. This insight will help the bank optimize its future targeting strategies.
